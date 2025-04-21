@@ -6,7 +6,7 @@
 
 - 中国大陆 IPv4 地址数据使用了 [@misakaio/chnroutes2](https://github.com/misakaio/chnroutes2/blob/master/chnroutes.txt)
 - 中国大陆 IPv6 地址数据使用了 [@gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip/blob/ip-lists/china6.txt)
-- 
+  
 ## 下载地址与使用方法
 
 本项目发布的所有 GeoIP 文件，请查看 [release 分支](https://github.com/lhear/geoip/tree/release)。以下是部分格式 GeoIP 文件的下载地址：
